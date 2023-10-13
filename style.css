@@ -3,7 +3,7 @@
   margin: 0;
 }
 body {
-    font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   color: whitesmoke;
   display: grid;
   grid-row: auto;
@@ -33,9 +33,9 @@ main {
   text-decoration: none;
   background-color: orange;
 }
-a:hover{
-    color: black;
-    background-color: whitesmoke;
+a:hover {
+  color: black;
+  background-color: whitesmoke;
 }
 #header1 h1 {
   margin-top: 100px;
@@ -48,7 +48,7 @@ a:hover{
   margin-bottom: 40px;
 }
 #manu ul {
-    padding-left: 70px;
+  padding-left: 70px;
   text-align: center;
   list-style: none;
   display: grid;
@@ -56,56 +56,55 @@ a:hover{
   grid-template-columns: 200px 200px 200px 200px;
 }
 
-main{
-    margin: 20px;
+main {
+  margin: 20px;
 }
-main p{
-    text-align: justify;
-    margin: 20px;
+main p {
+  text-align: justify;
+  margin: 20px;
 }
-main ul{
-    text-align: center;
-    padding-left: 70px;
-    padding-right: 70px;
-    display: grid;
-    grid-template-columns: 250px 250px;
-    column-gap: 275px;
-} 
-article{
-    margin: 50px;
+main ul {
+  text-align: center;
+  padding-left: 70px;
+  padding-right: 70px;
+  display: grid;
+  grid-template-columns: 250px 250px;
+  column-gap: 275px;
 }
-article h1{
-    font-size: 40px;
-    margin: 30px;
-    text-align: center;
+article {
+  margin: 50px;
 }
-article p{
-    text-align: justify;
+article h1 {
+  font-size: 40px;
+  margin: 30px;
+  text-align: center;
 }
-article h2{
-    margin: 30px;
-    text-align: center;
+article p {
+  text-align: justify;
 }
-#contener{
-    position: relative;
-    margin-top: 30px;
-    grid-template-columns: 250px 250px;
-    display: grid;
-    column-gap: 300px;
+article h2 {
+  margin: 30px;
+  text-align: center;
 }
-#contener img{
-    border-radius: 20px;
+#contener {
+  position: relative;
+  margin-top: 30px;
+  grid-template-columns: 250px 250px;
+  display: grid;
+  column-gap: 300px;
 }
-#norv{
-    font-size: 25px;
-position: absolute;
-top: 88%;
-left: 10%;
+#contener img {
+  border-radius: 20px;
 }
-#maine{
-    font-size: 25px;
-    position: absolute;
-    top: 88%;
-    left: 67%;
+#norv {
+  font-size: 25px;
+  position: absolute;
+  top: 88%;
+  left: 10%;
 }
-
+#maine {
+  font-size: 25px;
+  position: absolute;
+  top: 88%;
+  left: 55%;
+}

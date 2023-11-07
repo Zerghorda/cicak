@@ -48,12 +48,12 @@ a:hover {
   margin-bottom: 40px;
 }
 #manu ul {
-  padding-left: 70px;
+  padding-left: 7%;
   text-align: center;
   list-style: none;
   display: grid;
   column-gap: 50px;
-  grid-template-columns: 200px 200px 200px 200px;
+  grid-template-columns: 25% 25% 25% 15%;
 }
 
 main {
@@ -68,7 +68,7 @@ main ul {
   padding-left: 70px;
   padding-right: 70px;
   display: grid;
-  grid-template-columns: 250px 250px;
+  grid-template-columns: 35% 35%;
   column-gap: 275px;
 }
 article {
@@ -89,7 +89,7 @@ article h2 {
 #contener {
   position: relative;
   margin-top: 30px;
-  grid-template-columns: 250px 250px;
+  grid-template-columns: 35% 35%;
   display: grid;
   column-gap: 300px;
 }
@@ -100,11 +100,11 @@ article h2 {
   font-size: 25px;
   position: absolute;
   top: 88%;
-  left: 10%;
+  left: 6%;
 }
 #maine {
   font-size: 25px;
   position: absolute;
   top: 88%;
-  left: 55%;
+  left: 60%;
 }

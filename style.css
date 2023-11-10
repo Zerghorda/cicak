@@ -55,7 +55,6 @@ a:hover {
   column-gap: 50px;
   grid-template-columns: 25% 25% 25% 15%;
 }
-
 main {
   margin: 20px;
 }
@@ -103,6 +102,30 @@ article h2 {
   left: 6%;
 }
 #maine {
+  font-size: 25px;
+  position: absolute;
+  top: 88%;
+  left: 60%;
+}
+#aside1 h1 {
+  font-size: 40px;
+  margin: 30px;
+  text-align: center;
+}
+footer p {
+  text-align: justify;
+}
+.lista{
+  list-style: disc;
+  padding-left: 10px;
+}
+#belgan {
+  font-size: 25px;
+  position: absolute;
+  top: 88%;
+  left: 6%;
+}
+#ez_a_cica {
   font-size: 25px;
   position: absolute;
   top: 88%;
